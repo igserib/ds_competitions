@@ -1,6 +1,5 @@
 # ds_competitions
-Repositório destinado as competições de Data Science e os códigos utilizados.
-
+Repositório destinado as competições de Data Science.
 
 ## Competições
 ### Kaggle 
